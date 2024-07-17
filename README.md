@@ -46,7 +46,7 @@ Copy code
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/BlogApp.git
+    git clone https://github.com/MahendraJuvvalapati/BlogApp.git
     cd BlogApp
     ```
 
